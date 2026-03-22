@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nama": "Rempeyek", "harga": 2000, "stok": 5 },
+  { "id": 2, "nama": "Nasi Putih", "harga": 5000, "stok": 10 },
+  { "id": 3, "nama": "Gorengan", "harga": 1000, "stok": 15 },
+  { "id": 4, "nama": "Ayam Bakar", "harga": 15000, "stok": 7 }
+]
